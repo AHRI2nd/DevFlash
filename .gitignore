@@ -27,5 +27,8 @@ yarn-error.log*
 .claude/settings.local.json
 CLAUDE.md
 
+# ===== 배포 빌드 산출물 (build-dist.sh 로 생성) =====
+dist/
+
 # ===== 로그 / 임시 =====
 *.log
