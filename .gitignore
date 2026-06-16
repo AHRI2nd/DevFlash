@@ -24,12 +24,9 @@ yarn-error.log*
 *~
 
 # ===== Claude Code 로컬 설정 =====
-.claude/settings.local.json
+.claude/
 CLAUDE.md
 AGENTS.md
-
-# ===== 배포 빌드 산출물 (build-dist.sh 로 생성) =====
-dist/
 
 # ===== 로그 / 임시 =====
 *.log
